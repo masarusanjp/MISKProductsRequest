@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'MISKProductsRequest' target in the 'MISKProductsRequest' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
